@@ -1,0 +1,54 @@
+/*
+Theme Name: Fast theme develop from zahidul
+Theme URI: http://rongdhonuict.com/wp
+Author: Zahidul Islam
+Author URI: http://www.rongdonuict.com/zahidul
+Description: This theme developer for web developer poftfolio theme. Hello and hi I am zahidul islam . I am form Banglaseh and this is my fasi theme develop.I am a student of idbbisew round-37 in wdpf.if you  contact me pleae call +8801739898764
+or email:mjahid1990@gmail.com
+Version: 1.0.0
+License: rongdhonICT2019
+License URI: LICENSE
+Text Domain: portfoliotheme
+Tags: poftfolio theme,web-developer,zahidul1994,banglasehi them developwer 
+
+*/
+body {
+  background-color: #F5FFFA;
+}
+
+/* for nav area start */
+
+li {
+  list-style-type: none;
+}
+
+nav {
+  float: right;
+}
+
+nav li {
+  float: left;
+  border-right: 1px solid #1E1E1E;
+}
+
+nav li a {
+  text-decoration: none;
+  display: block;
+  font-family: lato;
+  font-size: 16px;
+  font-weight: bold;
+  color: #ffff;
+  padding: 6px 15px;
+
+}
+
+nav li a:hover {
+  color: #58C93A;
+  border-bottom: 3px solid #58C93A;
+}
+
+input #searchsubmit {
+  display: hidden;
+}
+
+/* for nav area start */
